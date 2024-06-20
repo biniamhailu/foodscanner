@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food Scanner</string>
+    <string name="action_go">Go</string>
+    <string name="app_title">Check what you eat</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="half_prompt">Is it safe to consume this if I have the following conditions</string>
+    <string name="camera_description">Camera</string>
+    <string name="results_placeholder">(Result will appear here)</string>
+    <string name="enter_conditions">Enter the conditions you\'re on the lookout for separated by a comma.</string>
+    <string name="scan_action">Scan</string>
+
+</resources>
